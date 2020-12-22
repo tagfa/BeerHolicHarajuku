@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "jp"
 title = "Beer Holic Harajuku"
+
+publishDir = "docs"
+canonifyurls = true
