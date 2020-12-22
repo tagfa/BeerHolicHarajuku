@@ -1,4 +1,4 @@
-baseURL = "https://tagfa.github.io/BeerHolicHarajuku"
+baseURL = "/"
 title = "Beer Holic Harajuku"
 
 # Comment when installing using Hugo Modules
