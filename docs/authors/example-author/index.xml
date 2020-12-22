@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Author on Beer Holic Harajuku</title>
+    <link>/authors/example-author/</link>
+    <description>Recent content in Example Author on Beer Holic Harajuku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.instagram.com/_mnimonic/&#34;&gt;_mnimonic&lt;/a&gt;</copyright><atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

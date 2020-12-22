@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Beer Holic Harajuku</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Beer Holic Harajuku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.instagram.com/_mnimonic/&#34;&gt;_mnimonic&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 22 Dec 2020 10:15:53 +0900</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>こんにちは</title>
+      <link>/posts/helloworld/</link>
+      <pubDate>Tue, 22 Dec 2020 10:15:53 +0900</pubDate>
+      
+      <guid>/posts/helloworld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
