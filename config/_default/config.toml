@@ -1,5 +1,6 @@
-baseURL = "/"
+baseURL = "https://tagfa.github.io/BeerHolicHarajuku/"
 title = "Beer Holic Harajuku"
+canonifyurls = true
 
 # Comment when installing using Hugo Modules
 theme = "eureka"
