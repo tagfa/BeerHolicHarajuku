@@ -2,5 +2,4 @@ baseURL = "https://tagfa.github.io/BeerHolicHarajuku/"
 languageCode = "jp"
 title = "Beer Holic Harajuku"
 
-publishDir = "docs"
 canonifyurls = true
