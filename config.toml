@@ -1,5 +1,3 @@
 baseURL = "https://tagfa.github.io/BeerHolicHarajuku/"
 languageCode = "jp"
 title = "Beer Holic Harajuku"
-
-canonifyurls = true
