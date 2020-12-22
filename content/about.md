@@ -6,5 +6,5 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-aaaaaa
+corona
 
