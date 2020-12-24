@@ -1,0 +1,18 @@
++++
+title = "three feet tokyo"
+description = "Chapter 1 of example doc"
+summary = ""
+toc = true
+authors = []
+tags = []
+categories = []
+series = []
+date =  "2020-10-16"
+lastmod = "2020-10-16"
+draft = false
++++
+
+<!--more-->
+
+## アクセス
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1620.6595193989083!2d139.70575991326922!3d35.66914555561766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x60188ca4e0724223%3A0x5f6e8fc02f522729!2z5piO5rK756We5a6u5YmN44CI5Y6f5a6_44CJ!3m2!1d35.6690374!2d139.7042217!4m5!1s0x60188de86497cd97%3A0xb9c66524b0c0e0c5!2z5p2x5Lqs6YO95riL6LC35Yy656We5a6u5YmN77yU5LiB55uu77yS77yV4oiS77yTIOWbveeUo-OCr-ODqeODleODiOODk-ODvOODq-WwgumWgCB0aHJlZWZlZXQg5Y6f5a6_5bqX!3m2!1d35.6693588!2d139.70853!5e0!3m2!1sja!2sjp!4v1608813251671!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>

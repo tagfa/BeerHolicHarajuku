@@ -6,5 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-corona
-
+クラフトビール中毒者のあつまり。原宿、ひいてはクラフトビール業界を盛り上げるべく集まった、クラフトビール中毒者の集まり。
