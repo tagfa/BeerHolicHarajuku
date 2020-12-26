@@ -15,4 +15,5 @@ draft = false
 <!--more-->
 
 ## アクセス
-![threefeetTokyo](/images/Map_threefeet.png)
+[〒150-0001 東京都渋谷区神宮前４丁目２５−３ メゾン原宿 101](https://g.page/threefeet-harajuku-beer?share)
+[![threefeetTokyo](/images/Map_threefeet.png)](https://g.page/threefeet-harajuku-beer?share)
