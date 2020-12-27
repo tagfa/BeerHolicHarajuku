@@ -1,6 +1,6 @@
 +++
 title = "three feet tokyo"
-description = "Chapter 1 of example doc"
+description = "約100種類の国産クラフトビールの瓶や缶を取り扱う、クラフトビールショップ。迷ったら店員さんに相談。"
 summary = ""
 toc = true
 authors = []
@@ -11,7 +11,7 @@ date =  "2020-12-25"
 lastmod = "2020-12-25"
 draft = false
 +++
-
+原宿駅徒歩10分。
 約100種類の国産クラフトビールの瓶や缶を取り扱う、クラフトビールショップ。迷ったら店員さんに相談。
 
 <!--more-->

@@ -1,6 +1,6 @@
 +++
 title = "SCOO"
-description = "Chapter 2 of example doc"
+description = "2020年11月オープンの小さなビアバー。IPAを中心としたクラフトビールに、こだわりの日本酒。"
 summary = ""
 toc = true
 authors = []
@@ -12,6 +12,7 @@ lastmod = "2020-12-25"
 draft = false
 +++
 
+原宿駅徒歩10分。
 2020年11月オープンの小さなビアバー。IPAを中心としたクラフトビールに、こだわりの日本酒。
 
 <!--more-->
@@ -21,7 +22,7 @@ draft = false
 
 
 ## アクセス
-JR原宿駅、副都心線明治神宮前駅から徒歩7分
+JR原宿駅、副都心線明治神宮前駅から徒歩10分
 
 Fam333から徒歩10分
 
