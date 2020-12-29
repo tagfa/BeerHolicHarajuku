@@ -4,6 +4,6 @@
   weight = 1
 
 [[main]]
-  name = "Member"
+  name = "参加店舗"
   url = "/docs/"
   weight = 2
