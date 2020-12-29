@@ -1,6 +1,6 @@
 +++
-title = "Member"
-description = "This is an example doc layout of Eureka theme"
+title = "モット　ハラジュク！　ビアホリック　2020フユ"
+description = "モット　ハラジュク！　ビアホリック　2020フユ"
 summary = ""
 toc = true
 authors = []
@@ -12,4 +12,3 @@ lastmod = "2020-10-16"
 draft = false
 +++
 
-モット　ハラジュク！　ビアホリック　2020フユ
